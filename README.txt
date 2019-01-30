@@ -27,3 +27,6 @@ https://qiita.com/suin/items/3b361907df502d01a494
 nfcpyでsuicaを読む
 https://github.com/m2wasabi/nfcpy-suica-sample
 https://qiita.com/keitasumiya/items/7bdb3ccf55176ee731d4
+
+参考書籍
+ここまで作れる！ Raspberry Pi 実践サンプル集
