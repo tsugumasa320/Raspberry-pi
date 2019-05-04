@@ -1,4 +1,4 @@
-使用したモジュール
+使用したライブラリ
 $ sudo apt-get install python-usb
 $ sudo pip install libusb1
 $ sudo pip install pyserial
